@@ -9,12 +9,9 @@
 - https://segmentfault.io
 - 
 
----
 
 # Developer Roadmap
-- https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d
-
----
+- [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 
 # Useful Tools
 1. Analysis
